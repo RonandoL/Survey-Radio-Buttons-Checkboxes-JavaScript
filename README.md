@@ -1,8 +1,4 @@
-# WARNING - DOWNLOAD ZIP INSTEAD OF CLONING!
-### If you clone, it will list me as a contributor and retain all the old commits, and you don't want that. Download Zip instead then change folder name.
-
-=========
-# insertApplicationName
+# Survey using radio buttons and checkboxes
 
 #### briefDescription, dateOfCurrentVersion_
 
